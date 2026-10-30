@@ -13,7 +13,7 @@ SimpleITK<2.1.0
 tqdm
 loguru
 hydra-core>=1.1.0
-mlflow==1.30.0
+mlflow==3.17.2
 GitPython
 matplotlib
 seaborn
